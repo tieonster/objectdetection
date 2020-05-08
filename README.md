@@ -4,6 +4,8 @@ Object Detection Project from videos with Yolov3
 Referenced from the following project:
 https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
+Project is run on google colab except the two codes: processvideo.py and processimages.py
+
 In this project, we will detect objects from videos and draw bounding boxes around them to label them.
 
 We will use the pre-trained weights from the yolov3 model that can be found here: 
