@@ -15,8 +15,11 @@ After getting the bounding boxes around the objects, we will combine all the ima
 Here is an outline of files:
 
 model.py -- Code that creates the yolov3 keras model and loads pre-trained weights into model
+
 functions.py - Includes a list of functions that is needed to process outputs from model and load image files
+
 main.py - Code to run model on image files stored in a directory
+
 process.py - Code to convert video to images and images to video
 
 
